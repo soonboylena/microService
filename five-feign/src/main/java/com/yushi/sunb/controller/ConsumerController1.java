@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Created by sunb on 2017/6/17.
  */
 @RestController
-public class ConsumerController {
+public class ConsumerController1 {
 
     @Autowired
     ComputeClient computeClient;
